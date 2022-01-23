@@ -1,0 +1,4 @@
+Nama : Fitria Ratna Pratiwi
+Umur : 24 Tahun
+Stack : fronted
+Bahasa pemrograman : javascript
